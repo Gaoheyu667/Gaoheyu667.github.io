@@ -1,50 +1,58 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Heyu Gao | Personal Homepage
+position: Undergraduate Student
+affiliation: School of Artificial Intelligence, Shenyang Aerospace University
+email: 13478398261@163.com
 
 # Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Large Language Model, RAG, Retrieval-Augmented Generation, Multi-Agent, NLP, Medical AI, Data Science
+description: Undergraduate student majoring in Data Science and Big Data Technology. Research interests: Large Language Models, Retrieval-Augmented Generation (RAG), Multi-Agent Systems, Natural Language Processing (NLP). Portfolio for postgraduate recommendation.
+canonical: https://Gaoheyu667.github.io/
 
-# Links 
-# If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+# External Links
+# Leave blank if you do not have the corresponding account
+cv_link: assets/files/resume.pdf
+github_link: https://github.com/Gaoheyu667
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+# Images Setting
+avatar: ./assets/img/avatar.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
-# Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+# Page Footer
 enable_footnote: true
 
-# Auto Dark Mode
-# You may use the option to disable the automatic dark theme
+# Dark Mode Switch
 auto_dark_mode: true
 
-# Font
-# You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
+# Font Style: Serif / Sans Serif
+font: "Sans Serif"
 
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+# Google Analytics (Remove this line if unused)
+# google_analytics: UA-111540567-4
 
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+# Theme Source (DO NOT MODIFY)
 remote_theme: yaoyao-liu/minimal-light
 
-# The following files will be removed from the generated website.
+# Top Navigation Bar (English Layout for Postgraduate Application)
+header:
+  links:
+    - label: About Me
+      url: ./
+    - label: Education
+      url: education
+    - label: Research Projects
+      url: projects
+    - label: Internships
+      url: internships
+    - label: Publications
+      url: Publications
+    - label: Honors & Awards
+      url: awards
+    - label: CV Download
+      url: assets/files/resume.pdf
+
+# Files to ignore during site generation (DO NOT MODIFY)
 exclude:
   - Gemfile
   - Gemfile.lock
