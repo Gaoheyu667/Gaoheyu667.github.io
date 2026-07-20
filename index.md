@@ -1,3 +1,7 @@
+---
+layout: homepage
+---
+
 ## About Me
 I am a 2023-entry undergraduate majoring in Data Science and Big Data Technology at the School of Artificial Intelligence, Shenyang Aerospace University. As a member of the Communist Youth League, I hold an overall GPA of 7.01/9.5 and rank 5th among 73 students in my major, with a CET-6 score of 488.
 
@@ -18,7 +22,7 @@ I have two industrial internships in LLM Agent development and medical AI algori
 - Engineering: Flask backend development, Linux environment, Huawei Ascend deployment
 
 ### Postgraduate Goal
-I am seeking postgraduate opportunities in NLP, large language models and multi-agent systems. My target universities include Northeastern University, Nankai University and Soochow University.
+I am seeking postgraduate opportunities in NLP, large language models and multi-agent systems. 
 
 ---
 

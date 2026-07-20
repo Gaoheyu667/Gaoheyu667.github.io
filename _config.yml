@@ -33,6 +33,13 @@ font: "Sans Serif"
 # Theme Source
 remote_theme: yaoyao-liu/minimal-light
 
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: homepage
+
 # Top Navigation Bar
 header:
   links:
