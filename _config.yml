@@ -1,13 +1,13 @@
-# Basic Information 
-title: Heyu Gao | Personal Homepage
-position: Undergraduate Student
-affiliation: School of Artificial Intelligence, Shenyang Aerospace University
+# Basic Information
+title: "Heyu Gao | Personal Homepage"
+position: "Undergraduate Student"
+affiliation: "School of Artificial Intelligence, Shenyang Aerospace University"
 email: 13478398261@163.com
 
 # Search Engine Optimization (SEO)
-keywords: Large Language Model, LLM, RAG, Retrieval-Augmented Generation, Multi-Agent, NLP, Medical AI, Data Science
-description: "Undergraduate student majoring in Data Science and Big Data Technology. Research interests: Large Language Models, Retrieval-Augmented Generation (RAG), Multi-Agent Systems, Natural Language Processing (NLP). Portfolio for postgraduate recommendation."
-canonical: https://Gaoheyu667.github.io/
+keywords: "Large Language Model, LLM, RAG, Retrieval-Augmented Generation, Multi-Agent, NLP, Medical AI, Data Science"
+description: "Undergraduate student majoring in Data Science and Big Data Technology. Research interests include Large Language Models, Retrieval-Augmented Generation, Multi-Agent Systems and Natural Language Processing. Portfolio for postgraduate recommendation."
+canonical: "https://Gaoheyu667.github.io/"
 
 # External Links
 google_scholar:
@@ -30,10 +30,7 @@ auto_dark_mode: true
 # Font Style: Serif / Sans Serif
 font: "Sans Serif"
 
-# Google Analytics (Remove this line if unused)
-# google_analytics: UA-111540567-4
-
-# Theme Source (DO NOT MODIFY)
+# Theme Source
 remote_theme: yaoyao-liu/minimal-light
 
 # Top Navigation Bar
