@@ -18,6 +18,25 @@ header {
   padding: 1.2rem 0 1rem;
 }
 
+.top-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem 0.7rem;
+  margin: 0.7rem 0 0.95rem;
+}
+
+.top-nav a {
+  color: #4c6ef5;
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.top-nav a:hover {
+  color: #2742a8;
+  text-decoration: underline;
+}
+
 header h1 {
   margin-bottom: 0.25rem;
   color: #1f2d3d;

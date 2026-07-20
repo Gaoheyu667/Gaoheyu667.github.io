@@ -1,3 +1,11 @@
+---
+layout: homepage
+---
+
+---
+layout: homepage
+---
+
 # Publications
 ### First-author Papers
 1. **A Transformer-based Multi-Agent Collaborative Reasoning Framework with Knowledge Graph Enhancement**  

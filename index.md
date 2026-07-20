@@ -1,3 +1,7 @@
+---
+layout: homepage
+---
+
 <div class="hero-card">
   <div class="hero-badge">Undergraduate · 2023 Entry</div>
   <p>I am a 2023-entry undergraduate majoring in <strong>Data Science and Big Data Technology</strong> at the School of Artificial Intelligence, Shenyang Aerospace University. I am passionate about building intelligent systems that can understand language, reason over knowledge, and solve real-world problems.</p>

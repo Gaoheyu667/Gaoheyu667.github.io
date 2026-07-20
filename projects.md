@@ -1,3 +1,7 @@
+---
+layout: homepage
+---
+
 # Research Projects
 ## UMLS-KG Driven MM-Agent Medical Assistance AI Platform
 **Project Leader | Provincial Key Research Project**  

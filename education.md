@@ -1,3 +1,7 @@
+---
+layout: homepage
+---
+
 <div class="hero-card">
   <div class="hero-badge">Academic Journey</div>
   <h2 style="margin: 0.3rem 0 0.4rem;">Shenyang Aerospace University</h2>

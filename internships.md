@@ -1,3 +1,11 @@
+---
+layout: homepage
+---
+
+---
+layout: homepage
+---
+
 # Internships
 ## Shenyang Artificial Intelligence Computing Center
 **Agent Development Intern**  

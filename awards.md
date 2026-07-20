@@ -1,3 +1,7 @@
+---
+layout: homepage
+---
+
 # Honors & Awards
 ## National-level Competition Awards (6 items)
 - First Prize, China Robot and Artificial Intelligence Competition (Top 10% nationwide)
