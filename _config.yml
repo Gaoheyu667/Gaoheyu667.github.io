@@ -5,14 +5,16 @@ affiliation: School of Artificial Intelligence, Shenyang Aerospace University
 email: 13478398261@163.com
 
 # Search Engine Optimization (SEO)
-keywords: Large Language Model, RAG, Retrieval-Augmented Generation, Multi-Agent, NLP, Medical AI, Data Science
-description: Undergraduate student majoring in Data Science and Big Data Technology. Research interests: Large Language Models, Retrieval-Augmented Generation (RAG), Multi-Agent Systems, Natural Language Processing (NLP). Portfolio for postgraduate recommendation.
+keywords: Large Language Model, LLM, RAG, Retrieval-Augmented Generation, Multi-Agent, NLP, Medical AI, Data Science
+description: "Undergraduate student majoring in Data Science and Big Data Technology. Research interests: Large Language Models, Retrieval-Augmented Generation (RAG), Multi-Agent Systems, Natural Language Processing (NLP). Portfolio for postgraduate recommendation."
 canonical: https://Gaoheyu667.github.io/
 
 # External Links
-# Leave blank if you do not have the corresponding account
+google_scholar:
 cv_link: assets/files/resume.pdf
 github_link: https://github.com/Gaoheyu667
+linkedin:
+twitter:
 
 # Images Setting
 avatar: ./assets/img/avatar.jpg
@@ -34,7 +36,7 @@ font: "Sans Serif"
 # Theme Source (DO NOT MODIFY)
 remote_theme: yaoyao-liu/minimal-light
 
-# Top Navigation Bar (English Layout for Postgraduate Application)
+# Top Navigation Bar
 header:
   links:
     - label: About Me
@@ -46,13 +48,13 @@ header:
     - label: Internships
       url: internships
     - label: Publications
-      url: Publications
+      url: publications
     - label: Honors & Awards
       url: awards
     - label: CV Download
       url: assets/files/resume.pdf
 
-# Files to ignore during site generation (DO NOT MODIFY)
+# Files to ignore during site generation
 exclude:
   - Gemfile
   - Gemfile.lock
