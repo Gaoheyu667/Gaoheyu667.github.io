@@ -36,15 +36,17 @@
 
   </head>
   <body>
+    {% if site.header and site.header.links %}
+    <nav class="top-nav">
+      <div class="nav-inner wrapper">
+        {% for link in site.header.links %}
+        <a href="{{ link.url | relative_url }}">{{ link.label }}</a>
+        {% endfor %}
+      </div>
+    </nav>
+
     <div class="wrapper">
       <header>
-        {% if site.header and site.header.links %}
-        <nav class="top-nav">
-          {% for link in site.header.links %}
-          <a href="{{ link.url | relative_url }}">{{ link.label }}</a>
-          {% endfor %}
-        </nav>
-        {% endif %}
 
         {% if site.avatar %}
         <a class="image avatar"><img src="{{ site.avatar | relative_url }}" alt="avatar" /></a>
